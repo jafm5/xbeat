@@ -73,7 +73,7 @@ const Footer = () => {
                         <div className="foot_copyright">
                             <p>
                                 {currYear} | JunoSoft. All Rights Reserved.
-                                Built by | <a href="https://charming-cobbler-6ab4a4.netlify.app/">JunoSoft</a>
+                                Built by | <a target='_blank' rel='noreferrer' href="https://charming-cobbler-6ab4a4.netlify.app/">JunoSoft</a>
                             </p>
                         </div>
                         <div className="foot_social">

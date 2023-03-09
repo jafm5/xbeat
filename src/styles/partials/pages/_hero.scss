@@ -1,3 +1,4 @@
+//estilos slider hero
 #hero {
     min-height: 100vh;
     @include centered;
@@ -35,7 +36,7 @@
     }
 
     &.hero_slide-0::before {
-        content: "Over Ear";
+        content: "Pan de Sal";
     }
 
     &.hero_slide-1::before {

@@ -1,12 +1,14 @@
 
-// Display Money in Indian Format
+// Manejo del formato moneda
+// Display Money in Colombia Format
 export const displayMoney = (n) => {
-    const numFormat = new Intl.NumberFormat('en-IN', {
+    const numFormat = new Intl.NumberFormat('es-CO', {
         style: 'currency',
-        currency: 'INR',
+        currency: 'COP',
+        minimumFractionDigits: 0
     });
 
-    return numFormat.format(n).split('.', 1);
+    return numFormat.format(n).split(1);
 };
 
 
