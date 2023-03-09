@@ -72,8 +72,8 @@ const Footer = () => {
                     <div className="sub_footer_wrapper">
                         <div className="foot_copyright">
                             <p>
-                                {currYear} | XBeat. All Rights Reserved.
-                                Built by | <a href="https://gulshansongara.netlify.app/">Gulshan Songara</a>
+                                {currYear} | JunoSoft. All Rights Reserved.
+                                Built by | <a href="https://charming-cobbler-6ab4a4.netlify.app/">JunoSoft</a>
                             </p>
                         </div>
                         <div className="foot_social">
