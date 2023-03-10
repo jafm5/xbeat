@@ -1,3 +1,5 @@
 1- estilos generales de la pagina
 
-busqueda en vs(estilos slider hero)
+busqueda en vs
+(estilos slider hero)
+(estilo botones search y cart barra principal)

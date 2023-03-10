@@ -40,11 +40,11 @@
     }
 
     &.hero_slide-1::before {
-        content: "In Ear";
+        content: "Mogolla";
     }
 
     &.hero_slide-2::before {
-        content: "Over Ear";
+        content: "Roscon";
     }
 
     @include devices(lg) {

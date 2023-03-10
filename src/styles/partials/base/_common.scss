@@ -142,13 +142,14 @@
     }
 }
 
+//estilo botones search y cart barra principal
 .tooltip {
     position: absolute;
     bottom: -45px;
     left: 50%;
     transform: translateX(-50%);
     background-color: var(--bg-color-3);
-    color: #eee;
+    color: #000000;
     border-radius: 3px;
     user-select: none;
     font-size: 0.8rem;
